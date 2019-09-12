@@ -10,11 +10,11 @@
   }
 
   .top-wrapper h1 {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .heading h2 {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -47,10 +47,10 @@
   }
   
   .top-wrapper h1 {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   .top-wrapper p {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
