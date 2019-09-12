@@ -89,8 +89,8 @@ header {
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 100px;
+  margin-top: 40px;
 }
 
 .header-left {
@@ -115,7 +115,6 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* menu-iconのCSSを貼り付けてください */
 .menu-icon {
   color: white;
   float: right;
@@ -189,7 +188,7 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: 100px;
 }
 
 footer p {
