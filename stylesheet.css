@@ -154,7 +154,8 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  font-size: 20px;
+  font-size: 16px;
+  opacity: 0.8px;
   top: 44%;
   width: 100%;
   color: white;
