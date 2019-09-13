@@ -142,6 +142,7 @@ header {
 }
 
 .lesson {
+  max-width: 1200px;
   float: left;
   width: 25%;
 }
