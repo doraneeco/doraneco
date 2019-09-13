@@ -201,7 +201,7 @@ footer p {
 }
 
 footer {
-  
+  height: 150px;
   padding-top: 30px;
   padding-bottom: 20px;
   background-image: url(IMG_0590.JPG);
