@@ -156,9 +156,9 @@ header {
   position: absolute;
   font-size: 16px;
   top: 20%;
-  left: 10%;
+  left: 15%;
   color: white;
-  opacity: 0.8px;
+  opacity: 0.8;
 }
 
 .text-contents {
