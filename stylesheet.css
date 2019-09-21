@@ -179,6 +179,8 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
+  background-image: url(IMG_0590.JPG);
+  background-size: cover;
 }
 
 .message {
@@ -208,8 +210,8 @@ footer {
   height: 50%;
   padding-top: 30px;
   padding-bottom: 20px;
-  background-image: url(IMG_0590.JPG);
-  background-repeat: no-repeat;
-  background-size: 350px;
-  text-align: center;
+  /* background-image: url(IMG_0590.JPG); */
+  /* background-repeat: no-repeat; */
+  /* background-size: 350px; */
+  /* text-align: center; */
 }
