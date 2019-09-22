@@ -39,10 +39,14 @@ a {
 header {
   height: 45px;
   width: 100%;
-  background-color: rgba(30, 39, 52, 0.9);
+  background-color: rgba(20, 19, 32, 0.7);
   position :fixed;
   top: 0;
   z-index: 10;
+}
+
+header h1 {
+  font-size: 20px;
 }
 
 .message-wrapper {
@@ -54,5 +58,5 @@ header {
 }
 
 .message-wrapper h1 {
-  font-size: 80px;
+  font-size: 100px;
 }

@@ -179,8 +179,8 @@ header {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-  background-image: url(IMG_0590.JPG);
-  background-size: cover;
+  /* background-image: url(IMG_0590.JPG); */
+  /* background-size: cover; */
   color: white;
 }
 
