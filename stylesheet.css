@@ -182,6 +182,9 @@ header {
   /* background-image: url(IMG_0590.JPG); */
   /* background-size: cover; */
   color: white;
+}
+
+.message img {
   position: relative;
 }
 
