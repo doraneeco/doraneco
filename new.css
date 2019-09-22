@@ -16,7 +16,6 @@ a {
 }
 
 .container {
-  height: 5000px;
   max-width: 1200px;
   width: 100%;
   padding: 0 15px;
@@ -28,6 +27,7 @@ a {
 }
 
 .top-wrapper {
+  height: 5000px;
   padding: 180px 0 100px 0;
   background-color: green;
   color: white;
