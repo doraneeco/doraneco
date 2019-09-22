@@ -188,7 +188,7 @@ header {
   position: relative;
 }
 
-.message h2 {
+.message-wrapper h2 {
   position: absolute;
   font-size: 16px;
   top: 150px;
@@ -197,7 +197,7 @@ header {
   opacity: 0.8;
 }
 
-.message h3 {
+.message-wrapper h3 {
   position: absolute;
   font-size: 16px;
   top: 170px;
