@@ -191,35 +191,123 @@ header {
 
 .message-wrapper h2 {
   position: absolute;
-  font-size: 16px;
-  top: 150px;
-  left: 150px;
+  font-size: 26px;
+  top: 130px;
+  left: 320px;
   color: white;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .message-wrapper h3 {
   position: absolute;
-  font-size: 16px;
-  top: 200px;
-  left: 150px;
+  font-size: 26px;
+  top: 180px;
+  left: 260px;
   color: white;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
-.message {
+.message-yes {
+  display: inline-block;
   position: absolute;
-  top: 250px;
-  left: 150px;
-  padding: 15px 40px;
+  top: 430px;
+  left: 100px;
+  width: 19%;
+  font-size: 14px;
+  padding: 15px 35px;
   background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
 
-.message:active {
-  position: relative;
-  top: 7px;
+.message-yes:active {
+  position: absolute;
+  color: rgba(0, 0, 0, 0);
+  background-image: url(無言.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  top: 250px;
+  left: 600px;
+  box-shadow: none;
+}
+
+.message-stay {
+  display: inline-block;
+  position: absolute;
+  top: 430px;
+  left: 400px;
+  width: 19%;
+  font-size: 14px;
+  padding: 15px 35px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message-stay:active {
+  position: absolute;
+  color: rgba(0, 0, 0, 0);
+  background-image: url(無言.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  top: 250px;
+  left: 600px;
+  box-shadow: none;
+}
+
+.message-no {
+  display: inline-block;
+  position: absolute;
+  top: 430px;
+  left: 700px;
+  width: 19%;
+  font-size: 14px;
+  padding: 15px 35px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message-no:active {
+  position: absolute;
+  color: rgba(0, 0, 0, 0);
+  background-image: url(無言.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  top: 250px;
+  left: 600px;
+  box-shadow: none;
+}
+
+.message-only {
+  display: inline-block;
+  position: absolute;
+  top: 430px;
+  left: 1000px;
+  width: 19%;
+  font-size: 12px;
+  padding: 7.5px 35px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message-only:active {
+  position: absolute;
+  color: rgba(0, 0, 0, 0);
+  background-image: url(無言.png);
+  height: 150px;
+  width: 150px;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  top: 250px;
+  left: 600px;
   box-shadow: none;
 }
 
