@@ -236,7 +236,7 @@
     position: absolute;
     top: 200px;
     left: 10px;
-    width: 30%;
+    width: 40%;
     font-size: 8px;
     padding: 15px 10px;
     background-color: #5dca88;
@@ -244,7 +244,7 @@
     box-shadow: 0 7px #1a7940;
   }
   
-  .message-yes:hover {
+  .message-yes:active {
     position: absolute;
     color: rgba(0, 0, 0, 0);
     background-image: url(OK!.png);
@@ -253,7 +253,7 @@
     background-size: cover; 
     background-repeat: no-repeat;
     top: 200px;
-    left: 300px;
+    left: 230px;
     box-shadow: none;
     transition: all 3s;
     transform: rotate(-720deg);
@@ -264,7 +264,7 @@
     position: absolute;
     top: 270px;
     left: 10px;
-    width: 30%;
+    width: 40%;
     font-size: 8px;
     padding: 15px 10px;
     background-color: #5dca88;
@@ -272,7 +272,7 @@
     box-shadow: 0 7px #1a7940;
   }
   
-  .message-stay:hover {
+  .message-stay:active {
     position: absolute;
     color: rgba(0, 0, 0, 0);
     background-image: url(は？.png);
@@ -281,7 +281,7 @@
     background-size: cover; 
     background-repeat: no-repeat;
     top: 200px;
-    left: 300px;
+    left: 230px;
     box-shadow: none;
     transition: all 3s;
     transform: rotate(-720deg);
@@ -292,7 +292,7 @@
     position: absolute;
     top: 340px;
     left: 10px;
-    width: 30%;
+    width: 40%;
     font-size: 8px;
     padding: 15px 10px;
     background-color: #5dca88;
@@ -300,7 +300,7 @@
     box-shadow: 0 7px #1a7940;
   }
   
-  .message-no:hover {
+  .message-no:active {
     position: absolute;
     color: rgba(0, 0, 0, 0);
     background-image: url(ぶち殺すぞ.png);
@@ -309,7 +309,7 @@
     background-size: cover; 
     background-repeat: no-repeat;
     top: 200px;
-    left: 310px;
+    left: 230px;
     box-shadow: none;
     transition: all 3s;
     transform: rotate(-720deg);
@@ -320,7 +320,7 @@
     position: absolute;
     top: 410px;
     left: 10px;
-    width: 30%;
+    width: 40%;
     font-size: 8px;
     padding: 5px 10px;
     background-color: #5dca88;
@@ -328,7 +328,7 @@
     box-shadow: 0 7px #1a7940;
   }
   
-  .message-only:hover {
+  .message-only:active {
     position: absolute;
     color: rgba(0, 0, 0, 0);
     background-image: url(怒り武智激.png);
@@ -337,7 +337,7 @@
     background-size: cover; 
     background-repeat: no-repeat;
     top: 200px;
-    left: 300px;
+    left: 230px;
     box-shadow: none;
     transition: all 3s;
     transform: rotate(-720deg);
