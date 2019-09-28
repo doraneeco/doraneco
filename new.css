@@ -51,12 +51,48 @@ header {
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
+  padding-bottom: 40px;
   text-align: center;
   background-color: red;
   color: white;
 }
 
-.message-wrapper h1 {
+.warning {
+  font-size: 25px;
+  letter-spacing: 5px;
+  color: yellow;
+  font-weight: bolder;
+}
+
+.you {
+  /* transition-delay: 15s; */
   font-size: 100px;
+}
+
+.text-bound {
+  font-size: 100px;
+  text-align: center;
+}
+
+.textbound1 {animation: bound .10s ease-in-out;}
+.textbound2 {animation: bound .11s ease-in-out;}
+.textbound3 {animation: bound .12s ease-in-out;}
+.textbound4 {animation: bound .13s ease-in-out;}
+.textbound5 {animation: bound .14s ease-in-out;}
+.textbound6 {animation: bound 15s ease-in-out;}
+
+
+@keyframes text-bound {
+  0% {transform: scale(0) translateY(0);}
+  50% {transform: scale(2) translateY(50px);}
+  70% {transform: scaleY(.5) translateY(200px);}
+  90% {transform: scaleX(1.5) translateY(150px);}
+  100% {transform: scale(1) translateY(100px);}
+}
+
+.back {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-block: 150px solid rgb(20, 79, 155);
+  background-color: skyblue;
 }
